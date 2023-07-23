@@ -1,0 +1,12 @@
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:20:15.170Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /favicon.ico","timestamp":"2023-07-23T16:20:15.393Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:24.640Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:51.995Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:52.475Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:52.880Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:53.411Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:21:53.707Z"}
+{"level":"info","message":" REQ METHOD -> GET, URL -> /","timestamp":"2023-07-23T16:25:35.499Z"}
+{"level":"error","message":"This is test Error","timestamp":"2023-07-23T16:25:35.501Z"}
+{"level":"info","message":" REQ METHOD -> POST, URL -> /login","timestamp":"2023-07-23T16:30:52.429Z"}
+{"level":"error","message":"Cannot destructure property 'username' of 'req.body' as it is undefined.","timestamp":"2023-07-23T16:30:52.433Z"}
